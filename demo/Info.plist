@@ -1,0 +1,4 @@
+<key>NSMicrophoneUsageDescription</key>
+<string>Your microphone is used to record audio.</string>
+<key>NSDocumentsFolderUsageDescription</key>
+<string>We need access to save audio files.</string>
